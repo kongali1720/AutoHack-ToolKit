@@ -8,8 +8,6 @@
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/kongali1720/AutoHack-ToolKit/pulls)
 [![Follow @kongali1720](https://img.shields.io/github/followers/kongali1720?label=Follow\&style=social)](https://github.com/kongali1720)
 
----
-
 <p align="center">
   Made with 💻 + ☕ by <b>Kongali1720</b>
 </p>
@@ -85,6 +83,70 @@ bash autohack.sh
        ║ [0] Keluar                            ║
        ╚═══════════════════════════════════════╝
 ```
+
+---
+
+## Features 
+
+## 🧰 Daftar Tools AutoHack-ToolKit (Versi Santuy)
+
+| 🔧 Tools           | 💣 Fungsi Utama                          | 🤪 Catatan Kocak                                          |
+|-------------------|------------------------------------------|-------------------------------------------------------------|
+| `whois`           | Lacak pemilik domain/IP                 | Kepo mode ON! Siapa sih yang punya website itu?              |
+| `nslookup`        | Intip DNS records                       | Kayak mantan, selalu ada catatan DNS-nya                     |
+| `dnsrecon`        | Recon DNS level dewa                    | Kayak jadi intel, tapi buat domain 😎                        |
+| `sublist3r`       | Cari subdomain                          | Subdomain itu kayak mantan: muncul di mana-mana              |
+| `theHarvester`    | Panen email & info                      | Tukang kebun versi siber                                     |
+| `nmap`            | Scan port & OS                          | Scanner legend, bisa tahu rumah orang kebuka pintu mana 😏   |
+| `whatweb`         | Deteksi teknologi website               | Website ini ngapain aja sih di balik layar?                  |
+| `recon-ng`        | Recon modular tingkat advance           | Recon-nya pakai modul, biar bisa S3                          |
+
+| 🔓 Exploitation    | 💣 Fungsi Utama                          | 🤪 Catatan Kocak                                          |
+|-------------------|------------------------------------------|-------------------------------------------------------------|
+| `sqlmap`          | SQL injection otomatis                  | Hack database kayak makan ciki                               |
+| `nuclei`          | Scanner cepat & modular                 | Cari bolongnya kayak cari diskon                             |
+| `nikto`           | Web server scanner                      | Si Nikto suka cari-cari celah, kayak netizen 😆              |
+| `wpscan`          | Khusus WordPress                        | WP kamu? Aman? Belum tentu!                                  |
+| `searchsploit`    | Cari exploit dari Exploit-DB            | Mau nyari cheat code? Nih tempatnya                          |
+
+| 🔐 Password Crack  | 💣 Fungsi Utama                          | 🤪 Catatan Kocak                                          |
+|-------------------|------------------------------------------|-------------------------------------------------------------|
+| `hydra`           | Brute force segala login                | Monster air terjun password                                  |
+| `john`            | Cracker legendaris                      | Bukan John Cena, tapi bisa liat password lo 😬               |
+| `hashcat`         | Cracking pake GPU                       | Pasukan VGA siap bekerja                                     |
+| `cewl`            | Bikin wordlist sendiri                  | Jadi penulis kamus hacker dadakan                            |
+| `medusa`          | Brute force multi-protocol              | Banyak kepala, banyak cara 😈                                |
+
+| 📡 Wireless Tools  | 💣 Fungsi Utama                          | 🤪 Catatan Kocak                                          |
+|-------------------|------------------------------------------|-------------------------------------------------------------|
+| `aircrack-ng`     | Crack WEP/WPA                           | Wi-Fi tetangga waspada! 😅                                   |
+| `reaver`          | WPS brute force                         | WPS = Wi-Fi Paling Sering dibobol                            |
+| `wifite`          | Otomatis serang Wi-Fi                   | Cuma tinggal nunggu Wi-Fi nyerah aja                         |
+| `fern-wifi`       | GUI buat nyulik Wi-Fi                   | Hacker tapi pengen tampil GUI-an                             |
+
+| 🐍 Payload & Shell | 💣 Fungsi Utama                          | 🤪 Catatan Kocak                                          |
+|-------------------|------------------------------------------|-------------------------------------------------------------|
+| `msfvenom`        | Buat payload                            | Suntikan racun virtual                                       |
+| `metasploit`      | Framework exploit all-in-one            | Toolkit wajib anak cyber                                     |
+| `veil`            | Payload anti-virus                      | Ninja payload, nggak kelihatan tapi nyerang                  |
+| `shellter`        | Inject shell ke exe                     | Nyelipin racun ke file Windows                               |
+
+| 🎣 Phishing Tools  | 💣 Fungsi Utama                          | 🤪 Catatan Kocak                                          |
+|-------------------|------------------------------------------|-------------------------------------------------------------|
+| `zphisher`        | Toolkit phishing                        | Mancing data pake umpan mirip asli                           |
+| `blackeye`        | Banyak template phish                   | Penyamaran level ninja                                       |
+| `evilginx2`       | MITM phishing modern                    | Gak jahat sih... cuma 'evil' aja 😈                          |
+| `setoolkit`       | Toolkit social engineering              | Bikin jebakan betmen di dunia maya                           |
+
+| 🔧 Utilities       | 💣 Fungsi Utama                          | 🤪 Catatan Kocak                                          |
+|-------------------|------------------------------------------|-------------------------------------------------------------|
+| `netcat`          | Jaringan serbaguna                      | Swiss Army Knife-nya hacker                                  |
+| `proxychains`     | Routing via proxy                       | Jalan muter biar gak ketahuan                                |
+| `tor`             | Anonim online                           | Kayak ninja, gak kelihatan                                   |
+| `ngrok`           | Buka lokal ke publik                    | Pintu rahasia ke localhost                                   |
+| `bettercap`       | MITM attack modern                      | Biar ngobrol antar device direkam 😏                         |
+| `burpsuite`       | Intercept & test web                    | Gigit lalu analisa 😋                                        |
+
 
 ---
 
