@@ -150,6 +150,24 @@ bash autohack.sh
 
 ---
 
+# 📦 Cara Install Lokal
+
+Buka terminal dan jalankan:
+
+    pip install .
+
+Atau:
+
+    python setup.py install
+
+Lalu jalankan di terminal kapanpun:
+
+# autohack
+
+## 🧠Catatan: Ini buat simulasi dan hiburan aja ya, jangan dipakai buat yang aneh-aneh. Script-nya kocak, tapi kita tetap white-hat 😇
+
+---
+
 ## 📢 Disclaimer
 
 > 📲 Tool ini bukan buat cari masalah, tapi buat *ngerti gimana sistem bisa ditembus*.
